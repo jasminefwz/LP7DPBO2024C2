@@ -46,3 +46,18 @@ Kelas ini bertanggung jawab untuk menggambar elemen-elemen permainan, seperti ba
 - Pemain dapat memulai kembali permainan dengan menekan tombol R atau SPACE setelah permainan berakhir.
 
 ## Dokumentasi saat Program Dijalankan
+1. Gui form untuk tampilan awal
+
+![gui form](https://github.com/jasminefwz/LP7DPBO2024C2/assets/147362810/bbc5b20a-550f-4c82-a6e4-887772ee8df3)
+
+2. Start game
+
+![start game](https://github.com/jasminefwz/LP7DPBO2024C2/assets/147362810/2f051e6b-bf1b-4aed-93f4-ccbc8221b65c)
+
+3. Score dan game over
+
+![score dan game over](https://github.com/jasminefwz/LP7DPBO2024C2/assets/147362810/2b5ad1ec-27d3-4d0b-93c7-269556b78bac)
+
+4. Restart game setelah game over 
+
+![restart game](https://github.com/jasminefwz/LP7DPBO2024C2/assets/147362810/750cf0cf-d027-4326-8ebe-6ab03c5ce201)
